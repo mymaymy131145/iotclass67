@@ -50,13 +50,19 @@ Kafka Streams ยังคงดึงศักยภำพของเทคโ
 
 
 ## Prometheus
+  เป็นโปรเเกรม free ส ำหรับกำรสอดส่อง event ต่ำงๆ เเละ ปั้นข้อมูลส่งไปให้ grafana จัดกำร
+ ต่อไป 
 
 
 
 ## MongoDB
-
+ เป็น database opensource ที ่เน้นกำรเก็บข้อมูลในรูปเเบบ document หลักกำรท ำงำน
+ เป็นเเบบ not only SQL ข้อมูลทุกอย่ำงใน mongo จะอยู ่ในรูปเเบบ BSON (คล้ำยๆ กับ 
+json)
 
 
 ## Grafana
-
+ เป็น program ไว้ส ำหรับดู cpu ดู ram ดู กำรใช้งำน resource ต่ำงๆ ในระบบคอม เป็น
+ เสมือน task manager เเต่ว่ำ สำมำรถเปลี่ยน theme ได้ เเล้วก็ free 
+ส่วนมำกจะใช้รับข้อมูลจำก prometheus อีกที
 
